@@ -24,7 +24,7 @@ time.sleep(0.7)
 print(Fore.YELLOW+"[>] Spamming ...")
 time.sleep(0.7)
 
-# Spam
+# Spam Section
 for i in range(times):
 	pyperclip.copy(random.choice(msg))
 	pyautogui.hotkey("ctrl","v")
