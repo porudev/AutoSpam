@@ -1,6 +1,7 @@
 <h1 align="center">AutoSpam Tool</h1>
-<p align="center">By jirodev/p>
-### 📥 Download
+<p align="center">By jirodev/<p>
+
+### 📥 Setup
 1. Download [`Python`](https://www.python.org/downloads/)
   
 2. Clone [`Autospam`](https://github.com/CoderJiro/AutoSpam) project:
