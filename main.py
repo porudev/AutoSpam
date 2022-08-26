@@ -1,5 +1,10 @@
-import pyautogui, pyperclip, random, time, os
-from colorama import Fore, Back, Style
+import pyautogui
+import pyperclip
+import random
+import time
+import os
+from colorama import Fore
+
 os.system("clear")
 msg = input(Fore.CYAN+'[1] Enter the content (You can enter multiple content at the same time to the separator by ||): ').split(" || ")
 times = int(input(Fore.CYAN+"[2] Enter the number of times: "))
@@ -9,7 +14,8 @@ print(Fore.YELLOW +"[>] Check dependencies ...")
 print(Fore.GREEN +"[>] Check dependencies successfully")
 print(Fore.MAGENTA +"Starting after ...")
 time.sleep(0.8)
-#count to 5
+
+# Count to 5
 for i in range(3,0,-1):
 	print(Fore.RED +"[+]", i,end="\n",flush='True')
 	time.sleep(0.5)
@@ -17,7 +23,8 @@ print(Fore.CYAN+"[>] Starting ...")
 time.sleep(0.7)
 print(Fore.YELLOW+"[>] Spamming ...")
 time.sleep(0.7)
-#spam area
+
+# Spam
 for i in range(times):
 	pyperclip.copy(random.choice(msg))
 	pyautogui.hotkey("ctrl","v")
