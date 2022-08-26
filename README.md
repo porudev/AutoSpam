@@ -1,2 +1,1 @@
-# AutoSpam
-Auto Spam tool by jirodev
+#How to use will upadte soon
