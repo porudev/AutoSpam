@@ -1,6 +1,9 @@
 <h1 align="center">AutoSpam Tool</h1>
 <p align="center">By jirodev</p>
 
+<p align="center">This project was remake</p>
+<p align="center">Fork from <a href="https://github.com/anh-dz/tool_spam">Mink Alex Vina</a></p>
+
 ### 📥 Setup
 1. Download [`Python`](https://www.python.org/downloads/)
   
@@ -24,12 +27,6 @@ or
 ```
 python3 main.py
 ```
-
-<br><br><br><br>
-
----
-<p align="center">This project was remake</p>
-<p align="center">Fork from <a href="https://github.com/anh-dz/tool_spam">Mink Alex Vina</a></p>
 <br><br><br><br>
 
 ---
