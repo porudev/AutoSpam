@@ -1,10 +1,11 @@
 <h1 align="center">AutoSpam Tool</h1>
 <p align="center">By jirodev</p>
+
 <br><br><br><br>
 
 ---
-<h1 align="center">This project was remake</h1>
-<h1 align="center">Fork from <a href="[https://github.com/anh-dz/tool_spam]">Mink Alex Vina</a></h1>
+<p align="center">This project was remake</p>
+<p align="center">Fork from <a href="[https://github.com/anh-dz/tool_spam]">Mink Alex Vina</a></p>
 <br><br><br><br>
 
 ---
