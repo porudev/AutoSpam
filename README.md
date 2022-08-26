@@ -11,7 +11,7 @@ git clone https://github.com/CoderJiro/AutoSpam.git
   
 3. Install modules:
 ```
-pip install -r path/to/requirements.txt 
+pip install -r requirements.txt 
 ```
 ### ⌨️ Usage
 Finally, run the tool in the terminal:
